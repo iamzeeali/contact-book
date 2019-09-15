@@ -1,4 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://iamzeeali:globus2015@glcluster-4yhn2.mongodb.net/contactbook?retryWrites=true&w=majority",
-  "jwtSecret": "boostIsTheSecretOfMyEnergy"
-}
